@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+17:48:01	297226/297226	---M-Z	200	added ('OK')	text/html	date:Thu,%2003%20Sep%202020%2015:48:01%20GMT	https://www.vg.no/nyheter/utenriks/i/K3QxLM/brennende-supertanker-lekker-olje-i-indiahavet	C:/minside/1234/www.vg.no/nyheter/utenriks/i/K3QxLM/brennende-supertanker-lekker-olje-i-indiahavet.html	(from )
+17:48:01	151/151	---M-Z	200	added ('OK')	text/plain	etag:%22ec-58b99d51a9806-gzip%22	https://www.vg.no/robots.txt		(from )
